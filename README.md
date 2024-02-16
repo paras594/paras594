@@ -18,14 +18,11 @@
   </h1>
 </div>
 
----
-
 ## :man_technologist: About Me
 - I am a Fullstack Developer & Certified Neo4j Professional with over 5 years of experience in **Node.js, MongoDB, TypeScript, Express, and ReactJS**. 
 - Passionate about staying up to date with the latest technologies.
 - My primary strength revolves around swiftly learning & applying my knowledge into my new projects. 
 
----
 
 ### :hammer_and_wrench: Languages and Tools 
 <div>
@@ -40,8 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40" />&nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40" />&nbsp;
 </div>
-
----
 
 ### :writing_hand: Blog Posts
 - [How to use populate in mongoose node.js](https://dev.to/paras594/how-to-use-populate-in-mongoose-node-js-mo0)
