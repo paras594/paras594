@@ -43,7 +43,7 @@
 - [Create a stopwatch with C++](https://dev.to/paras594/create-stopwatch-with-c-46bp)
 
 ### Let's Connect!
-📫 Shoot me an email at [parasarora594@gmail.com]
+📫 Shoot me an email at parasarora594@gmail.com
 🌐 Find me on [LinkedIn](https://www.linkedin.com/in/paras594)
 
 <!--
