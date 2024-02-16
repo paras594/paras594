@@ -46,9 +46,9 @@
 <div>
 📫 Shoot me an email at parasarora594@gmail.com
 </div>
-<div>
+
 🌐 Find me on [LinkedIn](https://www.linkedin.com/in/paras594)
-</div>
+
 
 <!--
 **paras594/paras594** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
