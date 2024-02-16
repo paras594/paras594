@@ -17,13 +17,13 @@
   </h1>
 </div>
 
-### :man_technologist: About Me
+### About Me
 - I am a Fullstack Developer & Certified Neo4j Professional with over 5 years of experience in **Node.js, MongoDB, TypeScript, Express, and ReactJS**. 
 - Passionate about staying up to date with the latest technologies.
 - My primary strength revolves around swiftly learning & applying my knowledge into my new projects. 
 
 
-### :hammer_and_wrench: Languages and Tools 
+### Languages and Tools 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -36,13 +36,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40" />&nbsp; 
 </div>
 
-### :writing_hand: Blog Posts
+### Blog Posts
 - [How to use populate in mongoose node.js](https://dev.to/paras594/how-to-use-populate-in-mongoose-node-js-mo0)
 - [Node.js Morgan Guide](https://dev.to/paras594/node-js-morgan-guide-431o)
 - [Upload Images to AWS S3 using Multer in Node.js](https://dev.to/paras594/upload-images-to-aws-s3-using-multer-in-nodejs-1164)
 - [Create a stopwatch with C++](https://dev.to/paras594/create-stopwatch-with-c-46bp)
 
-
+### Let's Connect!
+📫 Shoot me an email at [parasarora594@gmail.com]
+🌐 Find me on [LinkedIn](https://www.linkedin.com/in/paras594)
 
 <!--
 **paras594/paras594** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
