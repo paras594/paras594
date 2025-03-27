@@ -18,9 +18,9 @@
 </div>
 
 ### About Me
-- I am a Fullstack Developer & Certified Neo4j Professional with over 5 years of experience in **Node.js, MongoDB, TypeScript, Express, and ReactJS**. 
+- I am a Senior Software Engineer & Certified Neo4j Professional with over 6 years of experience in **React, Next, Node, Express, MongoDB**. 
 - Passionate about staying up to date with the latest technologies.
-- My primary strength revolves around swiftly learning & applying my knowledge into my new projects. 
+- I specialize in frontend and my primary strength revolves around swiftly learning & applying my knowledge into my new projects. 
 
 
 ### Languages and Tools 
