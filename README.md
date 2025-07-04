@@ -18,7 +18,7 @@
 </div>
 
 ### About Me
-- I am a Senior Software Engineer & Certified Neo4j Professional with over 6 years of experience in **React, Next, Node, Express, MongoDB**. 
+- I am a Senior Software Engineer & Certified Neo4j Professional with over 7 years of experience in **React, Next, Node, Express, MongoDB**. 
 - Passionate about staying up to date with the latest technologies.
 - I specialize in frontend and my primary strength revolves around swiftly learning & applying my knowledge into my new projects. 
 
